@@ -40,3 +40,5 @@ python jerry-bot.py
 ```
 
 # Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Iankulani/jerry-bot&type=Date)](https://star-history.com/#Iankulani/jerry-bot&Date)
