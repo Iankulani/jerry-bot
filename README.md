@@ -1,6 +1,7 @@
 # jerry-bot 
 
 <img width="1536" height="1024" alt="jerryb" src="https://github.com/user-attachments/assets/290ecc72-5426-4063-8b66-3cd16e571b9a" />
+
 [![GitHub stars](https://img.shields.io/github/stars/Iankulani/jerry-bot?style=for-the-badge&logo=github)](https://github.com/Iankulani/jerry-bot/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Iankulani/jerry-bot?style=for-the-badge&logo=github)](https://github.com/Iankulani/jerry-bot/network)
 [![GitHub watchers](https://img.shields.io/github/watchers/Iankulani/jerry-bot?style=for-the-badge&logo=github)](https://github.com/Iankulani/jerry-bot/watchers)
