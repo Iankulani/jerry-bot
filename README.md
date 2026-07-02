@@ -1,6 +1,15 @@
 # jerry-bot 
 
 <img width="1536" height="1024" alt="jerryb" src="https://github.com/user-attachments/assets/290ecc72-5426-4063-8b66-3cd16e571b9a" />
+[![GitHub stars](https://img.shields.io/github/stars/Iankulani/jerry-bot?style=for-the-badge&logo=github)](https://github.com/Iankulani/jerry-bot/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Iankulani/jerry-bot?style=for-the-badge&logo=github)](https://github.com/Iankulani/jerry-bot/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/Iankulani/jerry-bot?style=for-the-badge&logo=github)](https://github.com/Iankulani/jerry-bot/watchers)
+[![GitHub contributors](https://img.shields.io/github/contributors/Iankulani/jerry-bot?style=for-the-badge&logo=github)](https://github.com/Iankulani/jerry-bot/graphs/contributors)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Iankulani/jerry-bot?style=for-the-badge&logo=git)](https://github.com/Iankulani/jerry-bot/commits/main)
+[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows%20%7C%20macOS-blue?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/Iankulani/jerry-bot)
+[![Python](https://img.shields.io/badge/python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
 
 Jerry Bot is an advanced, multi-platform cybersecurity tool designed to empower users with the ability to execute commands, simulate cyber operations, and gather intelligence across a wide range of communication and application environments. Built with flexibility, scalability, and real-world applicability in mind, Jerry Bot integrates seamlessly with platforms such as Telegram, Slack, iMessage, Signal, and web-based applications, allowing users to control and manage operations from virtually anywhere.
 
